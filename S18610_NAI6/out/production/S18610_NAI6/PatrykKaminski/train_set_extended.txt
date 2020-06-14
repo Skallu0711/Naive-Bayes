@@ -1,0 +1,15 @@
+public static String[][] learningData = {
+            {"Sunny", "Hot", "High", "Weak", "Dark", "No"},
+            {"Sunny", "Hot", "High", "Strong", "Light","No"},
+            {"Overcast", "Hot", "High", "Weak", "Dark", "Yes"},
+            {"Rain", "Mild", "High", "Weak", "Light", "Yes"},
+            {"Rain", "Cool", "Normal", "Weak", "Dark", "Yes"},
+            {"Rain", "Cool", "Normal", "Strong", "Dark", "No"},
+            {"Overcast", "Cool", "Normal", "Strong", "Light", "Yes"},
+            {"Sunny", "Mild", "High", "Weak", "Dark", "No"},
+            {"Sunny", "Cool", "Normal", "Weak", "Dark", "Yes"},
+            {"Rain", "Mild", "Normal", "Weak", "Light","Yes"},
+            {"Sunny", "Mild", "Normal", "Strong", "Light", "Yes"},
+            {"Overcast", "Mild", "High", "Strong", "Light", "Yes"},
+            {"Overcast", "Hot", "Normal", "Weak", "Light", "Yes"}
+    };
